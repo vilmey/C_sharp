@@ -1,0 +1,6 @@
+C:\Users\vilmey.filho\source\repos\Integers\Integers\bin\Debug\Integers.exe.config
+C:\Users\vilmey.filho\source\repos\Integers\Integers\bin\Debug\Integers.exe
+C:\Users\vilmey.filho\source\repos\Integers\Integers\bin\Debug\Integers.pdb
+C:\Users\vilmey.filho\source\repos\Integers\Integers\obj\Debug\Integers.csproj.CoreCompileInputs.cache
+C:\Users\vilmey.filho\source\repos\Integers\Integers\obj\Debug\Integers.exe
+C:\Users\vilmey.filho\source\repos\Integers\Integers\obj\Debug\Integers.pdb
